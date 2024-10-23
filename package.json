@@ -1,6 +1,6 @@
 {
-  "name": "react-beautiful-dnd",
-  "version": "13.1.1",
+  "name": "@sunyfg/react-beautiful-dnd",
+  "version": "13.1.2",
   "description": "Beautiful and accessible drag and drop for lists with React",
   "author": "Alex Reardon <areardon@atlassian.com>",
   "keywords": [
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/atlassian/react-beautiful-dnd.git"
+    "url": "https://github.com/sunyfg/react-beautiful-dnd.git"
   },
   "bugs": {
     "url": "https://github.com/atlassian/react-beautiful-dnd/issues"
@@ -152,5 +152,8 @@
   "license": "Apache-2.0",
   "jest-junit": {
     "output": "test-reports/junit/js-test-results.xml"
+  },
+  "engines": {
+    "node": ">=16.0.0 <18.0.0"
   }
 }

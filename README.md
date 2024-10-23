@@ -1,20 +1,3 @@
-## ⚠️ Deprecated
-
-Hey all,
-
-We are taking the next step in saying thank you and goodbye to our friend `react-beautiful-dnd`.
-
-- 🔔 We will be soon deprecating `react-beautiful-dnd` on [npm](https://www.npmjs.com/package/react-beautiful-dnd). When we do you will start to get console warnings in your build tools.
-- 🔒 On Apr 30, 2025 (six months from posting) we will [archiving](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories) the `react-beautiful-dnd` Github repository (it will become read only).
-
-Thank you everybody for your support of this project.
-
-[More information](https://github.com/atlassian/react-beautiful-dnd/issues/2672)
-
-<br>
-
----
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/2182637/53611918-54c1ff80-3c24-11e9-9917-66ac3cef513d.png" alt="react beautiful dnd logo" />
 </p>

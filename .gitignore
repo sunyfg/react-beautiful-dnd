@@ -27,6 +27,8 @@ cypress/screenshots/
 # storybook
 .storybook.out
 .cache/
+.yarn/
+.yarnrc.yml
 
 # logs
 yarn-error.log
